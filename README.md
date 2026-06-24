@@ -5,7 +5,13 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Real-World+Projects"/>
+<br>
 
+<p align="center">
+Software Engineering student passionate about building real-world applications, mastering computer science fundamentals, and growing through continuous learning, problem solving, and hands-on projects.
+</p>
+
+<br>
 <br>
 
 ![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
