@@ -178,7 +178,7 @@ I enjoy exploring different areas of technology through projects, continuous lea
 
 ## Independent Software Developer
 
-**2025 – Present**
+**2023 – Present**
 
 Building projects focused on software development, problem solving, backend systems, and practical engineering applications.
 
