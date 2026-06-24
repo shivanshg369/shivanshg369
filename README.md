@@ -10,7 +10,6 @@
 
 ![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-8.20-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Saharanpur,_India-6366F1?style=for-the-badge)
 
 <br><br>
