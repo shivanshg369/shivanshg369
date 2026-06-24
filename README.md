@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Backend+Developer;Machine+Learning+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Production-Grade+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Real-World+Projects"/>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=shivanshg369&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=shivanshg369\&style=for-the-badge\&color=7C3AED)
 ![](https://img.shields.io/github/followers/shivanshg369?style=for-the-badge)
 
 </div>
@@ -37,28 +37,29 @@
 
 # About Me
 
-Software Engineering student at **Graphic Era Deemed to be University** with a strong focus on building scalable software systems, backend architectures, machine learning applications, and cloud-native solutions.
+Computer Science student at **Graphic Era Deemed to be University** with a strong interest in Software Engineering, Data Structures & Algorithms, Full Stack Development, and building real-world applications.
 
-My work centers around transforming engineering concepts into production-grade products by combining software engineering principles, data-driven decision making, and modern deployment practices.
+I enjoy exploring different areas of technology through projects, continuous learning, and problem solving. My focus is on developing strong engineering fundamentals while building practical solutions that create impact.
 
 ### Areas of Interest
 
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- Machine Learning
-- Full Stack Development
-- API Design
-- Performance Optimization
-- Open Source Development
+* Software Engineering
+* Data Structures & Algorithms
+* Full Stack Development
+* Backend Development
+* Cloud Computing
+* Machine Learning
+* Problem Solving
+* Open Source
 
 ### Open To
 
-- Software Engineering Internships
-- Backend Development Roles
-- Machine Learning Opportunities
-- Open Source Collaborations
-- Cloud Engineering Projects
+* Software Engineering Internships
+* Full Stack Development Roles
+* Backend Development Roles
+* Graduate Software Engineer Opportunities
+* Open Source Collaborations
+* Technical Projects & Hackathons
 
 ---
 
@@ -82,24 +83,24 @@ My work centers around transforming engineering concepts into production-grade p
 <img src="https://skillicons.dev/icons?i=flask,mysql"/>
 </p>
 
-## Cloud, DevOps & Tooling
+## Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# Technical Interests
 
-| Domain | Proficiency | Details |
-|----------|-------------|----------|
-| Machine Learning | Advanced | Supervised learning, model evaluation, feature engineering |
-| Predictive Analytics | Advanced | Random Forest, classification pipelines |
-| Data Processing | Advanced | Pandas, NumPy, preprocessing pipelines |
-| Model Validation | Advanced | Cross-validation, hyperparameter tuning |
-| Data Visualization | Intermediate | Matplotlib, Seaborn, Chart.js |
-| Optimization Algorithms | Intermediate | Genetic Algorithms, Local Search |
+| Domain                       | Experience                            |
+| ---------------------------- | ------------------------------------- |
+| Data Structures & Algorithms | Active Learning & Practice            |
+| Full Stack Development       | Academic & Personal Projects          |
+| Backend Development          | Flask APIs & Backend Fundamentals     |
+| Machine Learning             | Predictive Modeling & Data Analysis   |
+| Cloud Computing              | Deployment & Infrastructure Basics    |
+| Software Engineering         | Project Development & Problem Solving |
 
 ---
 
@@ -110,22 +111,21 @@ My work centers around transforming engineering concepts into production-grade p
 
 <br>
 
-| Metric | Value |
-|----------|----------|
-| Stack | Python, Flask, Random Forest, Genetic Algorithm |
-| Scale | 1000+ Data Points Daily |
-| Performance | 340ms Average API Response |
-| Security | API Validation |
-| Impact | Reduced Manual Rerouting by 70% |
-| Repository | https://github.com/shivanshg369/RouteWiseAi |
+| Metric      | Value                                           |
+| ----------- | ----------------------------------------------- |
+| Stack       | Python, Flask, Random Forest, Genetic Algorithm |
+| Scale       | 1000+ Data Points Daily                         |
+| Performance | 340ms Average API Response                      |
+| Impact      | Reduced Manual Rerouting by 70%                 |
+| Repository  | https://github.com/shivanshg369/RouteWiseAi     |
 
 ### Highlights
 
-- Integrated traffic, weather and route APIs.
-- Built route optimization using Genetic Algorithms.
-- Trained Random Forest model with 91.4% accuracy.
-- Developed scalable Flask REST APIs.
-- Implemented automated route fallback logic.
+* Integrated traffic, weather and route APIs.
+* Built route optimization using Genetic Algorithms.
+* Trained Random Forest model with 91.4% accuracy.
+* Developed scalable Flask REST APIs.
+* Implemented automated route fallback logic.
 
 </details>
 
@@ -134,20 +134,20 @@ My work centers around transforming engineering concepts into production-grade p
 
 <br>
 
-| Metric | Value |
-|----------|----------|
-| Stack | Python, CFG, Recursive Descent Parsing |
-| Scale | 20+ Grammar Rules |
-| Performance | Less than 5ms Parse Time |
-| Impact | 95%+ Parsing Accuracy |
-| Repository | Coming Soon |
+| Metric      | Value                                  |
+| ----------- | -------------------------------------- |
+| Stack       | Python, CFG, Recursive Descent Parsing |
+| Scale       | 20+ Grammar Rules                      |
+| Performance | Less than 5ms Parse Time               |
+| Impact      | 95%+ Parsing Accuracy                  |
+| Repository  | Coming Soon                            |
 
 ### Highlights
 
-- Designed lexer, parser and interpreter.
-- Built AST evaluation engine.
-- Implemented semantic validation.
-- Added detailed compiler diagnostics.
+* Designed lexer, parser and interpreter.
+* Built AST evaluation engine.
+* Implemented semantic validation.
+* Added detailed compiler diagnostics.
 
 </details>
 
@@ -156,19 +156,19 @@ My work centers around transforming engineering concepts into production-grade p
 
 <br>
 
-| Metric | Value |
-|----------|----------|
-| Stack | Python, Scikit-Learn, Pandas |
-| Performance | 87% Accuracy |
-| Impact | F1 Score Improved by 9% |
-| Repository | Coming Soon |
+| Metric      | Value                        |
+| ----------- | ---------------------------- |
+| Stack       | Python, Scikit-Learn, Pandas |
+| Performance | 87% Accuracy                 |
+| Impact      | Improved F1 Score by 9%      |
+| Repository  | Coming Soon                  |
 
 ### Highlights
 
-- End-to-end ML pipeline.
-- Multiple model benchmarking.
-- Feature engineering and preprocessing.
-- Hyperparameter optimization.
+* End-to-end ML pipeline.
+* Multiple model benchmarking.
+* Feature engineering and preprocessing.
+* Hyperparameter optimization.
 
 </details>
 
@@ -180,42 +180,31 @@ My work centers around transforming engineering concepts into production-grade p
 
 **2025 – Present**
 
-Building software systems focused on backend engineering, machine learning, cloud deployment, and scalable application design.
+Building projects focused on software development, problem solving, backend systems, and practical engineering applications.
 
 ### Scope of Work
 
-- Backend API Development
-- Machine Learning Pipelines
-- Cloud Deployment
-- Docker-Based Workflows
-- System Optimization
-- Version Control & Collaboration
-- ---
+* Software Development
+* Backend API Development
+* Problem Solving
+* Project Architecture
+* Version Control & Collaboration
+* Continuous Learning
+
+---
 
 # Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|------------|---------|
-| RouteWise AI | Achieved 91.4% Prediction Accuracy |
-| AWS Certification | AWS Certified Cloud Practitioner |
-| Engineering Projects | Built ML, Compiler & Full-Stack Systems |
-| Problem Solving | Continuous DSA & Algorithm Development |
+| Recognition          | Details                                  |
+| -------------------- | ---------------------------------------- |
+| Academic Performance | Maintaining 8.20 CGPA                    |
+| RouteWise AI         | Achieved 91.4% Prediction Accuracy       |
+| Engineering Projects | Built ML, Compiler & Full-Stack Projects |
+| Problem Solving      | Continuous DSA & Algorithm Development   |
 
 </div>
-
----
-
-# Certifications
-
-## AWS
-
-<p align="center">
-
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</p>
 
 ---
 
@@ -237,16 +226,6 @@ Building software systems focused on backend engineering, machine learning, clou
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshg369&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -262,24 +241,23 @@ Building software systems focused on backend engineering, machine learning, clou
 ```yaml
 Learning:
   - Data Structures & Algorithms
-  - Backend Engineering
-  - System Design
-  - Cloud Architecture
+  - Full Stack Development
+  - System Design Fundamentals
 
 Building:
-  - RouteWise AI
-  - Full Stack Applications
-  - Machine Learning Systems
+  - Software Projects
+  - Portfolio Projects
+  - Backend Applications
 
 Exploring:
-  - Distributed Systems
-  - DevOps
-  - Scalable Backend Design
+  - Cloud Computing
+  - Machine Learning
+  - Open Source
 
 Open_To:
   - Software Engineering Internships
-  - Backend Development Roles
-  - Open Source Collaboration
+  - Graduate Roles
+  - Technical Collaborations
 ```
 
 ---
@@ -311,4 +289,5 @@ Open_To:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
 
