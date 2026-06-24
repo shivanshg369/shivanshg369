@@ -185,7 +185,7 @@ I enjoy exploring different areas of technology through projects, continuous lea
   <img src="https://raw.githubusercontent.com/shivanshg369/shivanshg369/output/github-contribution-grid-snake.svg" />
 </p>
 # Engineering Experience
-
+---
 ## Independent Software Developer
 
 **2023 – Present**
